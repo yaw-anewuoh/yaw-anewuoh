@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaw-anewuoh
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning django and creating of APIs
+- 🌱 I’m currently learning django and creation of APIs
 - 💞️ I’m looking to collaborate on backend development and others
 - 📫 How to reach me : judeanewuoh@gmail.com
 
